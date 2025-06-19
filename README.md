@@ -1,7 +1,9 @@
-﻿This is the *Coffee Machine (JavaScript)* project I made myself.
+﻿This is the *Coffee Machine* made in Javascript during the Hyperskill course.
 
 
-<p>What can be better than a cup of coffee during a break? Two cups. Press a couple of buttons on the machine, and, voilà, a burst of raw energy is in your hands. But first, we should teach the machine how to do it. In this project, you will work on a coffee machine simulator. This machine uses regular ingredients — coffee, milk, and plastic cups. Should it run out of something, it will show you a notification. Our device will serve espresso, cappuccino, and latte. And since nothing is for free, it will also charge coffee lovers for a cup.</p><br/><br/>Learn more at <a href="https://hyperskill.org/projects/220?utm_source=ide&utm_medium=ide&utm_campaign=ide&utm_content=project-card">https://hyperskill.org/projects/220</a>
+<p>The project simulates a coffee machine, tracking inventory and money obtained.</p>
+<p>The user has the option to buy one of several coffees, fill the inventory, take the money, or check inventory.
+If a task cannot be complete, relevant feedback is provided to the user. Contains basic input validation to ensure the user is guided to inputting information correctly.</p>
 
 Here's the link to the project: https://hyperskill.org/projects/220
 
